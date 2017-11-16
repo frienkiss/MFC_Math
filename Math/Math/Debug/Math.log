@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/6/16 9:16:09。
+     1>项目“D:\vs文件\Math\Math\Math.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Math.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Math.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ex_Dlg.cpp Ex_Grade.cpp Math.cpp MathDlg.cpp
+         MathDlg.cpp
+         Math.cpp
+         Ex_Grade.cpp
+         Ex_Dlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Math.res" Math.rc 
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs文件\Math\Debug\Math.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\vs文件\Math\Debug\Math.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs文件\Math\Debug\Math.lib" /MACHINE:X86 Debug\Math.res
+         Debug\Ex_Dlg.obj
+         Debug\Ex_Grade.obj
+         Debug\Math.obj
+         Debug\MathDlg.obj
+         Debug\stdafx.obj
+         Math.vcxproj -> D:\vs文件\Math\Debug\Math.exe
+     1>已完成生成项目“D:\vs文件\Math\Math\Math.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.05
